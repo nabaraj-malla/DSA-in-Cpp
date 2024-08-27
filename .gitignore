@@ -1,0 +1,51 @@
+# OOPS1
+complex_number_class
+# OOPS2
+Polynomial_class
+
+# Recursion-1b
+Pair_star 
+remove-x 
+Replace-pi 
+String-to-Integer 
+TowrOfHanoi
+
+# Recursion-1
+all-indicesOfNumber 
+checkNumber 
+checkPalindrome 
+countZeros 
+firstIndex 
+Geometric-sum 
+lastIndexOfNumber 
+multiplication 
+NumberOfDigits 
+power 
+printNumbers 
+sumOfArray 
+sumOfDigits
+
+# Recursion-2
+Binary-search 
+check-AB 
+Merge-Sort 
+Print_all_codes 
+Print_permutations 
+Print_Subset_sum_to_k 
+Print-Keypad-Combination-code 
+Remove_Duplicates_Recursively 
+Replace_Character_Recursively 
+Return_all_codes 
+Return_permutation_string 
+Return_subset_sum_to_k 
+return-keypad-code 
+Return-subset-of-an-array 
+Staircase
+# time and space complexity
+Array_intersection 
+Check_Array_Rotation 
+Duplicate_in_Array 
+Find_the_unique_element 
+Pair_sum_in_array 
+Rotate_array 
+Triplet_sum
