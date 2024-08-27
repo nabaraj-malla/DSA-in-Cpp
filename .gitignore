@@ -49,3 +49,28 @@ Find_the_unique_element
 Pair_sum_in_array 
 Rotate_array 
 Triplet_sum
+
+# LinkedList-1
+Append-last-n-to-first 
+delete_node 
+delete-node-recursively 
+Eliminate_Duplicates 
+find-a-node-in-ll 
+Length-of-LL-recursive 
+palindrome-LL 
+print_reversed_ll 
+print-ith-node-data
+
+# LinkedList-2
+
+Bubble-sort-iterative-LL 
+Delete-every-N-nodes 
+even-after-odd-LL 
+Find-a-node-in-ll 
+KReverse 
+merge-two-sortedLL 
+mergedSort-LinkedList 
+midpoint-LL 
+reverse-LL-iterative 
+ReverseLL 
+swap-two-nodes-of-LL
