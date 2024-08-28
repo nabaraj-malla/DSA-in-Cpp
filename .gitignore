@@ -156,3 +156,11 @@ autoComplete
 palindrome-pair 
 pattern-matching 
 search-in-tries
+
+# Backtracking
+Crossword 
+N-Queen 
+Rat-in-a-maze 
+Subset-sum 
+Sudoku-solver
+
