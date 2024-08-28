@@ -141,3 +141,12 @@ check-max-heap
 Inplace-heap-sort 
 k-smallest-element 
 max-priority-queue
+
+# Hashmaps
+Extract-unique-characters 
+largest-subarray-zero-sum 
+longest-consecutive-sequence 
+maximum-frequency-number 
+pair-sum-to-0 
+pairs-with-difference-k 
+print-intersection
