@@ -150,3 +150,9 @@ maximum-frequency-number
 pair-sum-to-0 
 pairs-with-difference-k 
 print-intersection
+
+# Tries and Huffman coding
+autoComplete 
+palindrome-pair 
+pattern-matching 
+search-in-tries
