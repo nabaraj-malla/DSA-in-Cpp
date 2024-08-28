@@ -164,3 +164,10 @@ Rat-in-a-maze
 Subset-sum 
 Sudoku-solver
 
+#DP-1
+min-steps-to-one 
+minimum-count 
+minSteps-to-one-using-dp 
+number-of-balanced-binaryTree 
+Number-of-balanced-BT-using-DP 
+Staircase-using-DP
