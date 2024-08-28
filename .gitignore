@@ -116,3 +116,21 @@ print-level-wise
 remove-leaf-node 
 sum-of-nodes 
 zigzag-tree
+
+# BST
+BST-class 
+BST-to-sortedLL 
+checkBST 
+construct-BST-from-sorted-array 
+create-and-insert-duplicate-nodes 
+Find-path-in-BST 
+Largest-BST 
+LCA-of-binary-tree 
+LCA-of-BST 
+pair-sum-binary-tree 
+pair-sum-in-BST 
+path-sum-root-to-leaf 
+print-elements-in-range 
+print-node-at-distance-k-from-node 
+Replace-with-sum-of-greater-nodes 
+serach-in-bst
