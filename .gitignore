@@ -186,3 +186,12 @@ maximum-square-matrix-with-all-zeros
 min-cost-path 
 shortest-subsequence 
 ways-to-make-coin-change
+
+# Graphs-1
+3-cycle 
+all-connected-components 
+BFS-traversal 
+Get-path-BFS 
+Get-path-DFS 
+has-path 
+isConnected
