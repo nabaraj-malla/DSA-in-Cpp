@@ -99,3 +99,20 @@ print-level-wise
 Replace-with-depth 
 second-largest-element-in-tree 
 structurally-identical
+
+# Binary trees
+check-balanced 
+construct-tree-from-postorder-inorder 
+construct-tree-from-preorder-and-inorder 
+find-a-node 
+height-of-binary-tree 
+level-order-traversal 
+level-wise-linkedlist 
+min-max-of-binaryTree 
+mirror 
+nodes-without-sibling 
+postorder-binary-tree 
+print-level-wise 
+remove-leaf-node 
+sum-of-nodes 
+zigzag-tree
