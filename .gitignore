@@ -74,3 +74,13 @@ midpoint-LL
 reverse-LL-iterative 
 ReverseLL 
 swap-two-nodes-of-LL
+
+# Stacks and Queues
+Balanced_parenthesis 
+check_redundant_brackets 
+Minimum_bracket_reversal 
+Queue_using_LL 
+Reverse_queue 
+reverseStack 
+stack_using_LL 
+stock_span
