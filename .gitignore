@@ -134,3 +134,10 @@ print-elements-in-range
 print-node-at-distance-k-from-node 
 Replace-with-sum-of-greater-nodes 
 serach-in-bst
+
+# Priority Queues
+Buy-the-ticket 
+check-max-heap 
+Inplace-heap-sort 
+k-smallest-element 
+max-priority-queue
