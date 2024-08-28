@@ -84,3 +84,18 @@ Reverse_queue
 reverseStack 
 stack_using_LL 
 stock_span
+
+# Trees
+contains-x 
+count-leaf-node 
+count-nodes 
+find-sum-of-nodes 
+heigh-of-tree 
+max-data-node 
+next-larger 
+nodes-with-max-child-sum 
+postorder-traversal 
+print-level-wise 
+Replace-with-depth 
+second-largest-element-in-tree 
+structurally-identical
